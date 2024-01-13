@@ -1,5 +1,5 @@
 # IJCAI-24 3SLP
-This repository houses the source code of 3SLP for AAAI24.
+This repository houses the source code of 3SLP for IJCAI24.
 
 
 ## Table of Contents
