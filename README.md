@@ -1,5 +1,5 @@
-# AAAI24-SQ3L
-This repository houses the source code of SQ3L for AAAI24.
+# IJCAI-24 3SLP
+This repository houses the source code of 3SLP for AAAI24.
 
 
 ## Table of Contents
